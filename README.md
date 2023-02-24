@@ -7,15 +7,16 @@ To run this project, you will need to have Node.js and npm installed on your com
 
 Clone the repository to your local machine
 
-###`git clone https://github.com/example/calculator-app.git`
+`git clone https://github.com/example/calculator-app.git`
 
 Navigate to the project directory and install the dependencies
-###`cd calculator-app`
-###`npm install`
+
+`cd calculator-app`
+`npm install`
 
 Start the application
 
-###`npm start`
+`npm start`
 
 Open http://localhost:3000 in your browser to view the app.
 
